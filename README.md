@@ -12,4 +12,4 @@ test_model is use pretrained model to classification new generate picture
 
 The following is link to kaggle
 
-https://www.kaggle.com/jeff860530/dogs-vs-cats-with-trainsfer-learning?scriptVersionId=21754265
+https://www.kaggle.com/jeff860530/dogs-vs-cats-with-trainsfer-learning/edit/run/21754265
